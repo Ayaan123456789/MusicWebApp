@@ -1,0 +1,23 @@
+#div1{
+    box-shadow: 15px;
+    padding: 10px;
+    border-radius: 23%;
+    width: fit-content;
+}
+body{
+    background-size: cover;
+}
+
+#div_name{
+    box-shadow: 15px;
+    padding: 10px;
+    border-radius: 15px;
+    width: 292px;
+}
+
+canvas{
+    border: black;
+    box-shadow: 39%;
+    padding: 40px;
+    margin: 40px;
+}
